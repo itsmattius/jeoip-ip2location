@@ -2,35 +2,28 @@
 
 namespace Jeoip\Ip2Location;
 
-use Jeoip\Common\Exceptions\Exception;
+use GeoIp2\Model\Asn as AsnModel;
+use GeoIp2\Model\City as CityModel;
 use Jeoip\Common\Location as CommonLocation;
 use Jeoip\Contracts\ICidr;
-use Jeoip\Ip2Location\Models\Asn;
-use Jeoip\Ip2Location\Models\SubnetV4;
-use Jeoip\Ip2Location\Models\SubnetV6;
 
 class Location extends CommonLocation
 {
-    public static function create(string $query, SubnetV4|SubnetV6 $subnet, ?Asn $asn): self
+    public static function create(string $query, ICidr $subnet, CityModel $city, ?AsnModel $asn): self
     {
-        $location = $subnet->location;
-        if (null === $location) {
-            throw new Exception();
-        }
-
         return new self(
             $query,
-            $location->countryCode,
-            $subnet->cidr,
-            $location->country,
-            $location->region,
-            $location->city,
-            $asn?->id,
-            $asn?->title,
-            $location->latitude,
-            $location->longitude,
-            $location->zipcode,
-            $location->timezone,
+            $city->country->isoCode ?? '??',
+            $subnet,
+            $city->country->name ?? '',
+            $city->mostSpecificSubdivision->name ?? '',
+            $city->city->name ?? '',
+            $asn?->autonomousSystemNumber,
+            $asn?->autonomousSystemOrganization,
+            (float) ($city->location->latitude ?? 0.0),
+            (float) ($city->location->longitude ?? 0.0),
+            $city->postal->code ?? '',
+            $city->location->timeZone ?? '',
         );
     }
 
@@ -38,7 +31,7 @@ class Location extends CommonLocation
     protected string $country;
     protected string $region;
     protected string $city;
-    protected ?int    $asn;
+    protected ?string $asn;
     protected ?string $asn_org;
     protected float $latitude;
     protected float $longitude;
@@ -173,7 +166,7 @@ class Location extends CommonLocation
     }
 
     /**
-     * @return array{countryCode:string,subnet:string,country:string,country_eu:bool,region:string,city:string,asn:?int,asn_org:?string,latitude:float,longitude:float,zipcode:string,timezone:string}
+     * @return array{countryCode:string,subnet:string,country:string,country_eu:bool,region:string,city:string,asn:?string,asn_org:?string,latitude:float,longitude:float,zipcode:string,timezone:string}
      */
     public function jsonSerialize(): array
     {

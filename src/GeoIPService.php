@@ -2,17 +2,23 @@
 
 namespace Jeoip\Ip2Location;
 
+use GeoIp2\Database\Reader;
+use GeoIp2\Exception\AddressNotFoundException;
+use Jeoip\Common\Cidr;
 use Jeoip\Common\Exceptions\QueryException;
 use Jeoip\Common\Exceptions\UnknownLocationException;
 use Jeoip\Common\Utilities;
 use Jeoip\Contracts\IGeoIPService;
-use Jeoip\Ip2Location\Models\AsnV4;
-use Jeoip\Ip2Location\Models\AsnV6;
-use Jeoip\Ip2Location\Models\SubnetV4;
-use Jeoip\Ip2Location\Models\SubnetV6;
 
 class GeoIPService implements IGeoIPService
 {
+    public function __construct(
+        protected Reader $cityReader,
+        protected Reader $asnReader,
+        protected ?Reader $countryReader = null,
+    ) {
+    }
+
     public function query(?string $ip = null): Location
     {
         if (null === $ip) {
@@ -22,36 +28,33 @@ class GeoIPService implements IGeoIPService
             throw new QueryException("It's not valid ip", $ip);
         }
 
-        if (Utilities::isIpv4($ip)) {
-            return $this->queryIPv4($ip);
+        try {
+            $city = $this->cityReader->city($ip);
+        } catch (AddressNotFoundException $e) {
+            throw new UnknownLocationException($ip);
+        } catch (\InvalidArgumentException $e) {
+            throw new QueryException($e->getMessage(), $ip);
         }
 
-        return $this->queryIPv6($ip);
+        $asn = null;
+        try {
+            $asn = $this->asnReader->asn($ip);
+        } catch (AddressNotFoundException $e) {
+            // ASN data is optional; some IPs (e.g. reserved ranges) won't have it
+        }
+
+        $subnet = $this->subnetFromCity($ip, $city);
+
+        return Location::create($ip, $subnet, $city, $asn);
     }
 
-    public function queryIPv4(string $ipv4): Location
+    private function subnetFromCity(string $ip, \GeoIp2\Model\City $city): Cidr
     {
-        $subnet = SubnetV4::fromIP($ipv4);
-        if (!$subnet) {
-            throw new UnknownLocationException($ipv4);
+        $network = $city->traits->network ?? null;
+        if (null !== $network) {
+            return Cidr::parse((string) $network);
         }
 
-        $longIP = Utilities::ipToDec($ipv4);
-        $asNetwork = AsnV4::where('network_start', '<=', $longIP)->where('network_end', '>', $longIP)->first();
-
-        return Location::create($ipv4, $subnet, $asNetwork?->asn);
-    }
-
-    public function queryIPv6(string $ipv6): Location
-    {
-        $subnet = SubnetV6::fromIP($ipv6);
-        if (!$subnet) {
-            throw new UnknownLocationException($ipv6);
-        }
-
-        $longIP = Utilities::ipToDec($ipv6);
-        $asNetwork = AsnV6::where('network_start', '<=', $longIP)->where('network_end', '>', $longIP)->first();
-
-        return Location::create($ipv6, $subnet, $asNetwork?->asn);
+        return new Cidr($ip, Utilities::isIpv4($ip) ? 32 : 128);
     }
 }

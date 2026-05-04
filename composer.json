@@ -4,15 +4,15 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Jeoip\\Ip2Location\\": "src/",
-      "Jeoip\\Ip2Location\\Database\\Factories\\": "database/factories/"
+      "Jeoip\\Ip2Location\\": "src/"
     }
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
     "php": "^8.1",
-    "illuminate/database": "^9.0",
+    "ext-gmp": "*",
+    "geoip2/geoip2": "^3.0",
     "illuminate/support": "^9.0",
     "jeoip/common": "^1.0.0"
   },
@@ -20,7 +20,6 @@
     "phpunit/phpunit": "^9.5",
     "phpstan/phpstan": "^1.4.1",
     "friendsofphp/php-cs-fixer": "^3.1",
-    "nunomaduro/larastan": "^2.0",
     "orchestra/testbench": "^7.1"
   },
   "extra": {
