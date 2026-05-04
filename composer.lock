@@ -16,7 +16,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/brick/math/zipball/0ad82ce168c82ba30d1c01ec86116ab52f589478",
+                "url": "https://api.github.com/repos/brick/math/zipball/0ad82ce168c82ba30d1c01ec86116ab52f589478",
                 "reference": "0ad82ce168c82ba30d1c01ec86116ab52f589478",
                 "shasum": ""
             },
@@ -34,7 +34,7 @@
                     "Brick\\Math\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -71,7 +71,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/CarbonPHP/carbon-doctrine-types/zipball/18ba5ddfec8976260ead6e866180bd5d2f71aa1d",
+                "url": "https://api.github.com/repos/CarbonPHP/carbon-doctrine-types/zipball/18ba5ddfec8976260ead6e866180bd5d2f71aa1d",
                 "reference": "18ba5ddfec8976260ead6e866180bd5d2f71aa1d",
                 "shasum": ""
             },
@@ -92,7 +92,7 @@
                     "Carbon\\Doctrine\\": "src/Carbon/Doctrine/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -140,7 +140,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/composer/ca-bundle/zipball/68ff39175e8e94a4bb1d259407ce51a6a60f09e6",
+                "url": "https://api.github.com/repos/composer/ca-bundle/zipball/68ff39175e8e94a4bb1d259407ce51a6a60f09e6",
                 "reference": "68ff39175e8e94a4bb1d259407ce51a6a60f09e6",
                 "shasum": ""
             },
@@ -166,7 +166,7 @@
                     "Composer\\CaBundle\\": "src"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -212,7 +212,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/dflydev/dflydev-dot-access-data/zipball/a23a2bf4f31d3518f3ecb38660c95715dfead60f",
+                "url": "https://api.github.com/repos/dflydev/dflydev-dot-access-data/zipball/a23a2bf4f31d3518f3ecb38660c95715dfead60f",
                 "reference": "a23a2bf4f31d3518f3ecb38660c95715dfead60f",
                 "shasum": ""
             },
@@ -237,7 +237,7 @@
                     "Dflydev\\DotAccessData\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -287,7 +287,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/doctrine/inflector/zipball/6d6c96277ea252fc1304627204c3d5e6e15faa3b",
+                "url": "https://api.github.com/repos/doctrine/inflector/zipball/6d6c96277ea252fc1304627204c3d5e6e15faa3b",
                 "reference": "6d6c96277ea252fc1304627204c3d5e6e15faa3b",
                 "shasum": ""
             },
@@ -307,7 +307,7 @@
                     "Doctrine\\Inflector\\": "src"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -377,7 +377,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/doctrine/lexer/zipball/31ad66abc0fc9e1a1f2d9bc6a42668d2fbbcd6dd",
+                "url": "https://api.github.com/repos/doctrine/lexer/zipball/31ad66abc0fc9e1a1f2d9bc6a42668d2fbbcd6dd",
                 "reference": "31ad66abc0fc9e1a1f2d9bc6a42668d2fbbcd6dd",
                 "shasum": ""
             },
@@ -397,7 +397,7 @@
                     "Doctrine\\Common\\Lexer\\": "src"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -454,7 +454,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/dragonmantank/cron-expression/zipball/d61a8a9604ec1f8c3d150d09db6ce98b32675013",
+                "url": "https://api.github.com/repos/dragonmantank/cron-expression/zipball/d61a8a9604ec1f8c3d150d09db6ce98b32675013",
                 "reference": "d61a8a9604ec1f8c3d150d09db6ce98b32675013",
                 "shasum": ""
             },
@@ -480,7 +480,7 @@
                     "Cron\\": "src/Cron/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -518,7 +518,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/egulias/EmailValidator/zipball/d42c8731f0624ad6bdc8d3e5e9a4524f68801cfa",
+                "url": "https://api.github.com/repos/egulias/EmailValidator/zipball/d42c8731f0624ad6bdc8d3e5e9a4524f68801cfa",
                 "reference": "d42c8731f0624ad6bdc8d3e5e9a4524f68801cfa",
                 "shasum": ""
             },
@@ -545,7 +545,7 @@
                     "Egulias\\EmailValidator\\": "src"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -585,7 +585,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/fruitcake/php-cors/zipball/38aaa6c3fd4c157ffe2a4d10aa8b9b16ba8de379",
+                "url": "https://api.github.com/repos/fruitcake/php-cors/zipball/38aaa6c3fd4c157ffe2a4d10aa8b9b16ba8de379",
                 "reference": "38aaa6c3fd4c157ffe2a4d10aa8b9b16ba8de379",
                 "shasum": ""
             },
@@ -609,7 +609,7 @@
                     "Fruitcake\\Cors\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -656,7 +656,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/maxmind/GeoIP2-php/zipball/49fceddd694295e76e970a32848e03bb19e56b42",
+                "url": "https://api.github.com/repos/maxmind/GeoIP2-php/zipball/49fceddd694295e76e970a32848e03bb19e56b42",
                 "reference": "49fceddd694295e76e970a32848e03bb19e56b42",
                 "shasum": ""
             },
@@ -678,7 +678,7 @@
                     "GeoIp2\\": "src"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "Apache-2.0"
             ],
@@ -714,7 +714,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/GrahamCampbell/Result-Type/zipball/e01f4a821471308ba86aa202fed6698b6b695e3b",
+                "url": "https://api.github.com/repos/GrahamCampbell/Result-Type/zipball/e01f4a821471308ba86aa202fed6698b6b695e3b",
                 "reference": "e01f4a821471308ba86aa202fed6698b6b695e3b",
                 "shasum": ""
             },
@@ -731,7 +731,7 @@
                     "GrahamCampbell\\ResultType\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -776,7 +776,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/guzzle/uri-template/zipball/4f4bbd4e7172148801e76e3decc1e559bdee34e1",
+                "url": "https://api.github.com/repos/guzzle/uri-template/zipball/4f4bbd4e7172148801e76e3decc1e559bdee34e1",
                 "reference": "4f4bbd4e7172148801e76e3decc1e559bdee34e1",
                 "shasum": ""
             },
@@ -801,7 +801,7 @@
                     "GuzzleHttp\\UriTemplate\\": "src"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -862,7 +862,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/jeoip/common/zipball/8aa9af6b06773125d254c5560281ecdcd3620558",
+                "url": "https://api.github.com/repos/jeoip/common/zipball/8aa9af6b06773125d254c5560281ecdcd3620558",
                 "reference": "8aa9af6b06773125d254c5560281ecdcd3620558",
                 "shasum": ""
             },
@@ -881,7 +881,7 @@
                     "Jeoip\\Common\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -901,7 +901,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/jeoip/contracts/zipball/cd1aeed51f2eb0e5a8a485e3c90a2636e5221973",
+                "url": "https://api.github.com/repos/jeoip/contracts/zipball/cd1aeed51f2eb0e5a8a485e3c90a2636e5221973",
                 "reference": "cd1aeed51f2eb0e5a8a485e3c90a2636e5221973",
                 "shasum": ""
             },
@@ -917,7 +917,7 @@
                     "Jeoip\\Contracts\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -937,7 +937,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/laravel/framework/zipball/6055d9594c9da265ddbf1e27e7dd8f09624568bc",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/6055d9594c9da265ddbf1e27e7dd8f09624568bc",
                 "reference": "6055d9594c9da265ddbf1e27e7dd8f09624568bc",
                 "shasum": ""
             },
@@ -1103,7 +1103,7 @@
                     ]
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1135,7 +1135,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/laravel/serializable-closure/zipball/4f48ade902b94323ca3be7646db16209ec76be3d",
+                "url": "https://api.github.com/repos/laravel/serializable-closure/zipball/4f48ade902b94323ca3be7646db16209ec76be3d",
                 "reference": "4f48ade902b94323ca3be7646db16209ec76be3d",
                 "shasum": ""
             },
@@ -1160,7 +1160,7 @@
                     "Laravel\\SerializableClosure\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1196,7 +1196,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/thephpleague/commonmark/zipball/59fb075d2101740c337c7216e3f32b36c204218b",
+                "url": "https://api.github.com/repos/thephpleague/commonmark/zipball/59fb075d2101740c337c7216e3f32b36c204218b",
                 "reference": "59fb075d2101740c337c7216e3f32b36c204218b",
                 "shasum": ""
             },
@@ -1242,7 +1242,7 @@
                     "League\\CommonMark\\": "src"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1303,7 +1303,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/thephpleague/config/zipball/754b3604fb2984c71f4af4a9cbe7b57f346ec1f3",
+                "url": "https://api.github.com/repos/thephpleague/config/zipball/754b3604fb2984c71f4af4a9cbe7b57f346ec1f3",
                 "reference": "754b3604fb2984c71f4af4a9cbe7b57f346ec1f3",
                 "shasum": ""
             },
@@ -1330,7 +1330,7 @@
                     "League\\Config\\": "src"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1385,7 +1385,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/thephpleague/flysystem/zipball/570b8871e0ce693764434b29154c54b434905350",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/570b8871e0ce693764434b29154c54b434905350",
                 "reference": "570b8871e0ce693764434b29154c54b434905350",
                 "shasum": ""
             },
@@ -1428,7 +1428,7 @@
                     "League\\Flysystem\\": "src"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1468,7 +1468,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/thephpleague/flysystem-local/zipball/2f669db18a4c20c755c2bb7d3a7b0b2340488079",
+                "url": "https://api.github.com/repos/thephpleague/flysystem-local/zipball/2f669db18a4c20c755c2bb7d3a7b0b2340488079",
                 "reference": "2f669db18a4c20c755c2bb7d3a7b0b2340488079",
                 "shasum": ""
             },
@@ -1484,7 +1484,7 @@
                     "League\\Flysystem\\Local\\": ""
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1517,7 +1517,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/thephpleague/mime-type-detection/zipball/2d6702ff215bf922936ccc1ad31007edc76451b9",
+                "url": "https://api.github.com/repos/thephpleague/mime-type-detection/zipball/2d6702ff215bf922936ccc1ad31007edc76451b9",
                 "reference": "2d6702ff215bf922936ccc1ad31007edc76451b9",
                 "shasum": ""
             },
@@ -1536,7 +1536,7 @@
                     "League\\MimeTypeDetection\\": "src"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1573,7 +1573,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/maxmind/MaxMind-DB-Reader-php/zipball/2194f58d0f024ce923e685cdf92af3daf9951908",
+                "url": "https://api.github.com/repos/maxmind/MaxMind-DB-Reader-php/zipball/2194f58d0f024ce923e685cdf92af3daf9951908",
                 "reference": "2194f58d0f024ce923e685cdf92af3daf9951908",
                 "shasum": ""
             },
@@ -1601,7 +1601,7 @@
                     "MaxMind\\Db\\": "src/MaxMind/Db"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "Apache-2.0"
             ],
@@ -1637,7 +1637,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/maxmind/web-service-common-php/zipball/c309236b5a5555b96cf560089ec3cead12d845d2",
+                "url": "https://api.github.com/repos/maxmind/web-service-common-php/zipball/c309236b5a5555b96cf560089ec3cead12d845d2",
                 "reference": "c309236b5a5555b96cf560089ec3cead12d845d2",
                 "shasum": ""
             },
@@ -1660,7 +1660,7 @@
                     "MaxMind\\WebService\\": "src/WebService"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "Apache-2.0"
             ],
@@ -1688,7 +1688,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/Seldaek/monolog/zipball/37308608e599f34a1a4845b16440047ec98a172a",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/37308608e599f34a1a4845b16440047ec98a172a",
                 "reference": "37308608e599f34a1a4845b16440047ec98a172a",
                 "shasum": ""
             },
@@ -1746,7 +1746,7 @@
                     "Monolog\\": "src/Monolog"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1790,7 +1790,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/CarbonPHP/carbon/zipball/9228ce90e1035ff2f0db84b40ec2e023ed802075",
+                "url": "https://api.github.com/repos/CarbonPHP/carbon/zipball/9228ce90e1035ff2f0db84b40ec2e023ed802075",
                 "reference": "9228ce90e1035ff2f0db84b40ec2e023ed802075",
                 "shasum": ""
             },
@@ -1844,7 +1844,7 @@
                     "Carbon\\": "src/Carbon/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1897,7 +1897,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/nette/schema/zipball/f0ab1a3cda782dbc5da270d28545236aa80c4002",
+                "url": "https://api.github.com/repos/nette/schema/zipball/f0ab1a3cda782dbc5da270d28545236aa80c4002",
                 "reference": "f0ab1a3cda782dbc5da270d28545236aa80c4002",
                 "shasum": ""
             },
@@ -1926,7 +1926,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause",
                 "GPL-2.0-only",
@@ -1964,7 +1964,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/nette/utils/zipball/bb3ea637e3d131d72acc033cfc2746ee893349fe",
+                "url": "https://api.github.com/repos/nette/utils/zipball/bb3ea637e3d131d72acc033cfc2746ee893349fe",
                 "reference": "bb3ea637e3d131d72acc033cfc2746ee893349fe",
                 "shasum": ""
             },
@@ -2005,7 +2005,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause",
                 "GPL-2.0-only",
@@ -2055,7 +2055,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/nunomaduro/termwind/zipball/5369ef84d8142c1d87e4ec278711d4ece3cbf301",
+                "url": "https://api.github.com/repos/nunomaduro/termwind/zipball/5369ef84d8142c1d87e4ec278711d4ece3cbf301",
                 "reference": "5369ef84d8142c1d87e4ec278711d4ece3cbf301",
                 "shasum": ""
             },
@@ -2091,7 +2091,7 @@
                     "Termwind\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2140,7 +2140,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/schmittjoh/php-option/zipball/75365b91986c2405cf5e1e012c5595cd487a98be",
+                "url": "https://api.github.com/repos/schmittjoh/php-option/zipball/75365b91986c2405cf5e1e012c5595cd487a98be",
                 "reference": "75365b91986c2405cf5e1e012c5595cd487a98be",
                 "shasum": ""
             },
@@ -2166,7 +2166,7 @@
                     "PhpOption\\": "src/PhpOption/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "Apache-2.0"
             ],
@@ -2215,7 +2215,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/php-fig/clock/zipball/e41a24703d4560fd0acb709162f73b8adfc3aa0d",
+                "url": "https://api.github.com/repos/php-fig/clock/zipball/e41a24703d4560fd0acb709162f73b8adfc3aa0d",
                 "reference": "e41a24703d4560fd0acb709162f73b8adfc3aa0d",
                 "shasum": ""
             },
@@ -2228,7 +2228,7 @@
                     "Psr\\Clock\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2263,7 +2263,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/php-fig/container/zipball/c71ecc56dfe541dbd90c5360474fbc405f8d5963",
+                "url": "https://api.github.com/repos/php-fig/container/zipball/c71ecc56dfe541dbd90c5360474fbc405f8d5963",
                 "reference": "c71ecc56dfe541dbd90c5360474fbc405f8d5963",
                 "shasum": ""
             },
@@ -2281,7 +2281,7 @@
                     "Psr\\Container\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2316,7 +2316,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/php-fig/event-dispatcher/zipball/dbefd12671e8a14ec7f180cab83036ed26714bb0",
+                "url": "https://api.github.com/repos/php-fig/event-dispatcher/zipball/dbefd12671e8a14ec7f180cab83036ed26714bb0",
                 "reference": "dbefd12671e8a14ec7f180cab83036ed26714bb0",
                 "shasum": ""
             },
@@ -2334,7 +2334,7 @@
                     "Psr\\EventDispatcher\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2366,7 +2366,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/php-fig/log/zipball/f16e1d5863e37f8d8c2a01719f5b34baa2b714d3",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/f16e1d5863e37f8d8c2a01719f5b34baa2b714d3",
                 "reference": "f16e1d5863e37f8d8c2a01719f5b34baa2b714d3",
                 "shasum": ""
             },
@@ -2384,7 +2384,7 @@
                     "Psr\\Log\\": "src"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2416,7 +2416,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/php-fig/simple-cache/zipball/764e0b3939f5ca87cb904f570ef9be2d78a07865",
+                "url": "https://api.github.com/repos/php-fig/simple-cache/zipball/764e0b3939f5ca87cb904f570ef9be2d78a07865",
                 "reference": "764e0b3939f5ca87cb904f570ef9be2d78a07865",
                 "shasum": ""
             },
@@ -2434,7 +2434,7 @@
                     "Psr\\SimpleCache\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2467,7 +2467,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/ramsey/collection/zipball/344572933ad0181accbf4ba763e85a0306a8c5e2",
+                "url": "https://api.github.com/repos/ramsey/collection/zipball/344572933ad0181accbf4ba763e85a0306a8c5e2",
                 "reference": "344572933ad0181accbf4ba763e85a0306a8c5e2",
                 "shasum": ""
             },
@@ -2507,7 +2507,7 @@
                     "Ramsey\\Collection\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2543,7 +2543,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/ramsey/uuid/zipball/8429c78ca35a09f27565311b98101e2826affde0",
+                "url": "https://api.github.com/repos/ramsey/uuid/zipball/8429c78ca35a09f27565311b98101e2826affde0",
                 "reference": "8429c78ca35a09f27565311b98101e2826affde0",
                 "shasum": ""
             },
@@ -2595,7 +2595,7 @@
                     "Ramsey\\Uuid\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2621,7 +2621,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/console/zipball/7bbcaf3fdb1e18fa42a7f0b84a10d091c10548f5",
+                "url": "https://api.github.com/repos/symfony/console/zipball/7bbcaf3fdb1e18fa42a7f0b84a10d091c10548f5",
                 "reference": "7bbcaf3fdb1e18fa42a7f0b84a10d091c10548f5",
                 "shasum": ""
             },
@@ -2664,7 +2664,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2719,7 +2719,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/css-selector/zipball/3665cfade90565430909b906394c73c8739e57d0",
+                "url": "https://api.github.com/repos/symfony/css-selector/zipball/3665cfade90565430909b906394c73c8739e57d0",
                 "reference": "3665cfade90565430909b906394c73c8739e57d0",
                 "shasum": ""
             },
@@ -2735,7 +2735,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2788,7 +2788,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/deprecation-contracts/zipball/63afe740e99a13ba87ec199bb07bbdee937a5b62",
+                "url": "https://api.github.com/repos/symfony/deprecation-contracts/zipball/63afe740e99a13ba87ec199bb07bbdee937a5b62",
                 "reference": "63afe740e99a13ba87ec199bb07bbdee937a5b62",
                 "shasum": ""
             },
@@ -2810,7 +2810,7 @@
                     "function.php"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2855,7 +2855,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/error-handler/zipball/2ea68f0e1835ad6a126f93bbc14cd236c10ab361",
+                "url": "https://api.github.com/repos/symfony/error-handler/zipball/2ea68f0e1835ad6a126f93bbc14cd236c10ab361",
                 "reference": "2ea68f0e1835ad6a126f93bbc14cd236c10ab361",
                 "shasum": ""
             },
@@ -2885,7 +2885,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -2934,7 +2934,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/event-dispatcher/zipball/e4a2e29753c7801f7a8340e066cfa788f3bc8101",
+                "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/e4a2e29753c7801f7a8340e066cfa788f3bc8101",
                 "reference": "e4a2e29753c7801f7a8340e066cfa788f3bc8101",
                 "shasum": ""
             },
@@ -2970,7 +2970,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3019,7 +3019,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/event-dispatcher-contracts/zipball/59eb412e93815df44f05f342958efa9f46b1e586",
+                "url": "https://api.github.com/repos/symfony/event-dispatcher-contracts/zipball/59eb412e93815df44f05f342958efa9f46b1e586",
                 "reference": "59eb412e93815df44f05f342958efa9f46b1e586",
                 "shasum": ""
             },
@@ -3042,7 +3042,7 @@
                     "Symfony\\Contracts\\EventDispatcher\\": ""
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3095,7 +3095,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/finder/zipball/9590e86be1d1c57bfbb16d0dd040345378c20896",
+                "url": "https://api.github.com/repos/symfony/finder/zipball/9590e86be1d1c57bfbb16d0dd040345378c20896",
                 "reference": "9590e86be1d1c57bfbb16d0dd040345378c20896",
                 "shasum": ""
             },
@@ -3114,7 +3114,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3163,7 +3163,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/http-foundation/zipball/cffffd0a2c037117b742b4f8b379a22a2a33f6d2",
+                "url": "https://api.github.com/repos/symfony/http-foundation/zipball/cffffd0a2c037117b742b4f8b379a22a2a33f6d2",
                 "reference": "cffffd0a2c037117b742b4f8b379a22a2a33f6d2",
                 "shasum": ""
             },
@@ -3195,7 +3195,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3244,7 +3244,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/http-kernel/zipball/4087ec02119de450e9ebb60806d69c6bb8c6e468",
+                "url": "https://api.github.com/repos/symfony/http-kernel/zipball/4087ec02119de450e9ebb60806d69c6bb8c6e468",
                 "reference": "4087ec02119de450e9ebb60806d69c6bb8c6e468",
                 "shasum": ""
             },
@@ -3313,7 +3313,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3362,7 +3362,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/mailer/zipball/01b846f48e53ee4096692a383637a1fa4d577301",
+                "url": "https://api.github.com/repos/symfony/mailer/zipball/01b846f48e53ee4096692a383637a1fa4d577301",
                 "reference": "01b846f48e53ee4096692a383637a1fa4d577301",
                 "shasum": ""
             },
@@ -3397,7 +3397,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3446,7 +3446,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/mime/zipball/330077bc7fbe314758aff62834b758d06ac6d260",
+                "url": "https://api.github.com/repos/symfony/mime/zipball/330077bc7fbe314758aff62834b758d06ac6d260",
                 "reference": "330077bc7fbe314758aff62834b758d06ac6d260",
                 "shasum": ""
             },
@@ -3482,7 +3482,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3535,7 +3535,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/polyfill-ctype/zipball/141046a8f9477948ff284fa65be2095baafb94f2",
+                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/141046a8f9477948ff284fa65be2095baafb94f2",
                 "reference": "141046a8f9477948ff284fa65be2095baafb94f2",
                 "shasum": ""
             },
@@ -3563,7 +3563,7 @@
                     "Symfony\\Polyfill\\Ctype\\": ""
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3618,7 +3618,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/polyfill-intl-grapheme/zipball/4864388bfbd3001ce88e234fab652acd91fdc57e",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-grapheme/zipball/4864388bfbd3001ce88e234fab652acd91fdc57e",
                 "reference": "4864388bfbd3001ce88e234fab652acd91fdc57e",
                 "shasum": ""
             },
@@ -3643,7 +3643,7 @@
                     "Symfony\\Polyfill\\Intl\\Grapheme\\": ""
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3700,7 +3700,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/polyfill-intl-idn/zipball/9614ac4d8061dc257ecc64cba1b140873dce8ad3",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-idn/zipball/9614ac4d8061dc257ecc64cba1b140873dce8ad3",
                 "reference": "9614ac4d8061dc257ecc64cba1b140873dce8ad3",
                 "shasum": ""
             },
@@ -3726,7 +3726,7 @@
                     "Symfony\\Polyfill\\Intl\\Idn\\": ""
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3787,7 +3787,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/polyfill-intl-normalizer/zipball/3833d7255cc303546435cb650316bff708a1c75c",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-normalizer/zipball/3833d7255cc303546435cb650316bff708a1c75c",
                 "reference": "3833d7255cc303546435cb650316bff708a1c75c",
                 "shasum": ""
             },
@@ -3815,7 +3815,7 @@
                     "Resources/stubs"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3872,7 +3872,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/polyfill-mbstring/zipball/6a21eb99c6973357967f6ce3708cd55a6bec6315",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/6a21eb99c6973357967f6ce3708cd55a6bec6315",
                 "reference": "6a21eb99c6973357967f6ce3708cd55a6bec6315",
                 "shasum": ""
             },
@@ -3901,7 +3901,7 @@
                     "Symfony\\Polyfill\\Mbstring\\": ""
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -3957,7 +3957,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/polyfill-php80/zipball/dfb55726c3a76ea3b6459fcfda1ec2d80a682411",
+                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/dfb55726c3a76ea3b6459fcfda1ec2d80a682411",
                 "reference": "dfb55726c3a76ea3b6459fcfda1ec2d80a682411",
                 "shasum": ""
             },
@@ -3982,7 +3982,7 @@
                     "Resources/stubs"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -4041,7 +4041,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/polyfill-php83/zipball/3600c2cb22399e25bb226e4a135ce91eeb2a6149",
+                "url": "https://api.github.com/repos/symfony/polyfill-php83/zipball/3600c2cb22399e25bb226e4a135ce91eeb2a6149",
                 "reference": "3600c2cb22399e25bb226e4a135ce91eeb2a6149",
                 "shasum": ""
             },
@@ -4066,7 +4066,7 @@
                     "Resources/stubs"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -4121,7 +4121,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/polyfill-uuid/zipball/26dfec253c4cf3e51b541b52ddf7e42cb0908e94",
+                "url": "https://api.github.com/repos/symfony/polyfill-uuid/zipball/26dfec253c4cf3e51b541b52ddf7e42cb0908e94",
                 "reference": "26dfec253c4cf3e51b541b52ddf7e42cb0908e94",
                 "shasum": ""
             },
@@ -4149,7 +4149,7 @@
                     "Symfony\\Polyfill\\Uuid\\": ""
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -4204,7 +4204,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/process/zipball/c46e854e79b52d07666e43924a20cb6dc546644e",
+                "url": "https://api.github.com/repos/symfony/process/zipball/c46e854e79b52d07666e43924a20cb6dc546644e",
                 "reference": "c46e854e79b52d07666e43924a20cb6dc546644e",
                 "shasum": ""
             },
@@ -4220,7 +4220,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -4269,7 +4269,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/routing/zipball/48035d186798d27d375d95aad37db8fe097e4048",
+                "url": "https://api.github.com/repos/symfony/routing/zipball/48035d186798d27d375d95aad37db8fe097e4048",
                 "reference": "48035d186798d27d375d95aad37db8fe097e4048",
                 "shasum": ""
             },
@@ -4301,7 +4301,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -4356,7 +4356,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/service-contracts/zipball/45112560a3ba2d715666a509a0bc9521d10b6c43",
+                "url": "https://api.github.com/repos/symfony/service-contracts/zipball/45112560a3ba2d715666a509a0bc9521d10b6c43",
                 "reference": "45112560a3ba2d715666a509a0bc9521d10b6c43",
                 "shasum": ""
             },
@@ -4386,7 +4386,7 @@
                     "/Test/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -4443,7 +4443,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/string/zipball/114ac57257d75df748eda23dd003878080b8e688",
+                "url": "https://api.github.com/repos/symfony/string/zipball/114ac57257d75df748eda23dd003878080b8e688",
                 "reference": "114ac57257d75df748eda23dd003878080b8e688",
                 "shasum": ""
             },
@@ -4477,7 +4477,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -4534,7 +4534,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/translation/zipball/d07d117db41341511671b0a1a2be48f2772189ce",
+                "url": "https://api.github.com/repos/symfony/translation/zipball/d07d117db41341511671b0a1a2be48f2772189ce",
                 "reference": "d07d117db41341511671b0a1a2be48f2772189ce",
                 "shasum": ""
             },
@@ -4584,7 +4584,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -4633,7 +4633,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/translation-contracts/zipball/65a8bc82080447fae78373aa10f8d13b38338977",
+                "url": "https://api.github.com/repos/symfony/translation-contracts/zipball/65a8bc82080447fae78373aa10f8d13b38338977",
                 "reference": "65a8bc82080447fae78373aa10f8d13b38338977",
                 "shasum": ""
             },
@@ -4658,7 +4658,7 @@
                     "/Test/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -4715,7 +4715,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/uid/zipball/6b973c385f00341b246f697d82dc01a09107acdd",
+                "url": "https://api.github.com/repos/symfony/uid/zipball/6b973c385f00341b246f697d82dc01a09107acdd",
                 "reference": "6b973c385f00341b246f697d82dc01a09107acdd",
                 "shasum": ""
             },
@@ -4735,7 +4735,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -4793,7 +4793,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/var-dumper/zipball/7c8ad9ce4faf6c8a99948e70ce02b601a0439782",
+                "url": "https://api.github.com/repos/symfony/var-dumper/zipball/7c8ad9ce4faf6c8a99948e70ce02b601a0439782",
                 "reference": "7c8ad9ce4faf6c8a99948e70ce02b601a0439782",
                 "shasum": ""
             },
@@ -4828,7 +4828,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -4881,7 +4881,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/tijsverkoyen/CssToInlineStyles/zipball/f0292ccf0ec75843d65027214426b6b163b48b41",
+                "url": "https://api.github.com/repos/tijsverkoyen/CssToInlineStyles/zipball/f0292ccf0ec75843d65027214426b6b163b48b41",
                 "reference": "f0292ccf0ec75843d65027214426b6b163b48b41",
                 "shasum": ""
             },
@@ -4907,7 +4907,7 @@
                     "TijsVerkoyen\\CssToInlineStyles\\": "src"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -4936,7 +4936,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/vlucas/phpdotenv/zipball/955e7815d677a3eaa7075231212f2110983adecc",
+                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/955e7815d677a3eaa7075231212f2110983adecc",
                 "reference": "955e7815d677a3eaa7075231212f2110983adecc",
                 "shasum": ""
             },
@@ -4972,7 +4972,7 @@
                     "Dotenv\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -5020,7 +5020,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/voku/portable-ascii/zipball/8e1051fe39379367aecf014f41744ce7539a856f",
+                "url": "https://api.github.com/repos/voku/portable-ascii/zipball/8e1051fe39379367aecf014f41744ce7539a856f",
                 "reference": "8e1051fe39379367aecf014f41744ce7539a856f",
                 "shasum": ""
             },
@@ -5039,7 +5039,7 @@
                     "voku\\": "src/voku/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5096,7 +5096,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/clue/reactphp-ndjson/zipball/392dc165fce93b5bb5c637b67e59619223c931b0",
+                "url": "https://api.github.com/repos/clue/reactphp-ndjson/zipball/392dc165fce93b5bb5c637b67e59619223c931b0",
                 "reference": "392dc165fce93b5bb5c637b67e59619223c931b0",
                 "shasum": ""
             },
@@ -5114,7 +5114,7 @@
                     "Clue\\React\\NDJson\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5160,7 +5160,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/composer/pcre/zipball/b2bed4734f0cc156ee1fe9c0da2550420d99a21e",
+                "url": "https://api.github.com/repos/composer/pcre/zipball/b2bed4734f0cc156ee1fe9c0da2550420d99a21e",
                 "reference": "b2bed4734f0cc156ee1fe9c0da2550420d99a21e",
                 "shasum": ""
             },
@@ -5191,7 +5191,7 @@
                     "Composer\\Pcre\\": "src"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5239,7 +5239,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/composer/semver/zipball/198166618906cb2de69b95d7d47e5fa8aa1b2b95",
+                "url": "https://api.github.com/repos/composer/semver/zipball/198166618906cb2de69b95d7d47e5fa8aa1b2b95",
                 "reference": "198166618906cb2de69b95d7d47e5fa8aa1b2b95",
                 "shasum": ""
             },
@@ -5261,7 +5261,7 @@
                     "Composer\\Semver\\": "src"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5316,7 +5316,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/composer/xdebug-handler/zipball/6c1925561632e83d60a44492e0b344cf48ab85ef",
+                "url": "https://api.github.com/repos/composer/xdebug-handler/zipball/6c1925561632e83d60a44492e0b344cf48ab85ef",
                 "reference": "6c1925561632e83d60a44492e0b344cf48ab85ef",
                 "shasum": ""
             },
@@ -5336,7 +5336,7 @@
                     "Composer\\XdebugHandler\\": "src"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5382,7 +5382,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/doctrine/instantiator/zipball/23da848e1a2308728fe5fdddabf4be17ff9720c7",
+                "url": "https://api.github.com/repos/doctrine/instantiator/zipball/23da848e1a2308728fe5fdddabf4be17ff9720c7",
                 "reference": "23da848e1a2308728fe5fdddabf4be17ff9720c7",
                 "shasum": ""
             },
@@ -5404,7 +5404,7 @@
                     "Doctrine\\Instantiator\\": "src/Doctrine/Instantiator/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5451,7 +5451,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/ergebnis/agent-detector/zipball/5b654a9f1ff8a5d2ce6a57568df5ae8801c87f64",
+                "url": "https://api.github.com/repos/ergebnis/agent-detector/zipball/5b654a9f1ff8a5d2ce6a57568df5ae8801c87f64",
                 "reference": "5b654a9f1ff8a5d2ce6a57568df5ae8801c87f64",
                 "shasum": ""
             },
@@ -5490,7 +5490,7 @@
                     "Ergebnis\\AgentDetector\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5520,7 +5520,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/igorw/evenement/zipball/0a16b0d71ab13284339abb99d9d2bd813640efbc",
+                "url": "https://api.github.com/repos/igorw/evenement/zipball/0a16b0d71ab13284339abb99d9d2bd813640efbc",
                 "reference": "0a16b0d71ab13284339abb99d9d2bd813640efbc",
                 "shasum": ""
             },
@@ -5536,7 +5536,7 @@
                     "Evenement\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5567,7 +5567,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/FakerPHP/Faker/zipball/e0ee18eb1e6dc3cda3ce9fd97e5a0689a88a64b5",
+                "url": "https://api.github.com/repos/FakerPHP/Faker/zipball/e0ee18eb1e6dc3cda3ce9fd97e5a0689a88a64b5",
                 "reference": "e0ee18eb1e6dc3cda3ce9fd97e5a0689a88a64b5",
                 "shasum": ""
             },
@@ -5599,7 +5599,7 @@
                     "Faker\\": "src/Faker/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5630,7 +5630,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/theofidry/cpu-core-counter/zipball/db9508f7b1474469d9d3c53b86f817e344732678",
+                "url": "https://api.github.com/repos/theofidry/cpu-core-counter/zipball/db9508f7b1474469d9d3c53b86f817e344732678",
                 "reference": "db9508f7b1474469d9d3c53b86f817e344732678",
                 "shasum": ""
             },
@@ -5654,7 +5654,7 @@
                     "Fidry\\CpuCoreCounter\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5691,7 +5691,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/filp/whoops/zipball/d2102955e48b9fd9ab24280a7ad12ed552752c4d",
+                "url": "https://api.github.com/repos/filp/whoops/zipball/d2102955e48b9fd9ab24280a7ad12ed552752c4d",
                 "reference": "d2102955e48b9fd9ab24280a7ad12ed552752c4d",
                 "shasum": ""
             },
@@ -5719,7 +5719,7 @@
                     "Whoops\\": "src/Whoops/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5762,7 +5762,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/PHP-CS-Fixer/PHP-CS-Fixer/zipball/a9727678fbd12997f1d9de8f4a37824ed9df1065",
+                "url": "https://api.github.com/repos/PHP-CS-Fixer/PHP-CS-Fixer/zipball/a9727678fbd12997f1d9de8f4a37824ed9df1065",
                 "reference": "a9727678fbd12997f1d9de8f4a37824ed9df1065",
                 "shasum": ""
             },
@@ -5824,7 +5824,7 @@
                     "src/**/Internal/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5867,7 +5867,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/hamcrest/hamcrest-php/zipball/f8b1c0173b22fa6ec77a81fe63e5b01eba7e6487",
+                "url": "https://api.github.com/repos/hamcrest/hamcrest-php/zipball/f8b1c0173b22fa6ec77a81fe63e5b01eba7e6487",
                 "reference": "f8b1c0173b22fa6ec77a81fe63e5b01eba7e6487",
                 "shasum": ""
             },
@@ -5894,7 +5894,7 @@
                     "hamcrest"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -5918,7 +5918,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/laravel/tinker/zipball/c9f80cc835649b5c1842898fb043f8cc098dd741",
+                "url": "https://api.github.com/repos/laravel/tinker/zipball/c9f80cc835649b5c1842898fb043f8cc098dd741",
                 "reference": "c9f80cc835649b5c1842898fb043f8cc098dd741",
                 "shasum": ""
             },
@@ -5951,7 +5951,7 @@
                     "Laravel\\Tinker\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -5984,7 +5984,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/mockery/mockery/zipball/1f4efdd7d3beafe9807b08156dfcb176d18f1699",
+                "url": "https://api.github.com/repos/mockery/mockery/zipball/1f4efdd7d3beafe9807b08156dfcb176d18f1699",
                 "reference": "1f4efdd7d3beafe9807b08156dfcb176d18f1699",
                 "shasum": ""
             },
@@ -6010,7 +6010,7 @@
                     "Mockery\\": "library/Mockery"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -6067,7 +6067,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/myclabs/DeepCopy/zipball/07d290f0c47959fd5eed98c95ee5602db07e0b6a",
+                "url": "https://api.github.com/repos/myclabs/DeepCopy/zipball/07d290f0c47959fd5eed98c95ee5602db07e0b6a",
                 "reference": "07d290f0c47959fd5eed98c95ee5602db07e0b6a",
                 "shasum": ""
             },
@@ -6093,7 +6093,7 @@
                     "DeepCopy\\": "src/DeepCopy/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -6127,7 +6127,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/nikic/PHP-Parser/zipball/dca41cd15c2ac9d055ad70dbfd011130757d1f82",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/dca41cd15c2ac9d055ad70dbfd011130757d1f82",
                 "reference": "dca41cd15c2ac9d055ad70dbfd011130757d1f82",
                 "shasum": ""
             },
@@ -6155,7 +6155,7 @@
                     "PhpParser\\": "lib/PhpParser"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -6185,7 +6185,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/nunomaduro/collision/zipball/f05978827b9343cba381ca05b8c7deee346b6015",
+                "url": "https://api.github.com/repos/nunomaduro/collision/zipball/f05978827b9343cba381ca05b8c7deee346b6015",
                 "reference": "f05978827b9343cba381ca05b8c7deee346b6015",
                 "shasum": ""
             },
@@ -6220,7 +6220,7 @@
                     "NunoMaduro\\Collision\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -6273,7 +6273,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/orchestral/canvas/zipball/7e2703498bb5434825c41ca8cf8eebe9183c8d51",
+                "url": "https://api.github.com/repos/orchestral/canvas/zipball/7e2703498bb5434825c41ca8cf8eebe9183c8d51",
                 "reference": "7e2703498bb5434825c41ca8cf8eebe9183c8d51",
                 "shasum": ""
             },
@@ -6310,7 +6310,7 @@
                     "Orchestra\\Canvas\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -6341,7 +6341,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/orchestral/canvas-core/zipball/bd0cb8004e1e7510bb9bbabb6236ba13192c8fc1",
+                "url": "https://api.github.com/repos/orchestral/canvas-core/zipball/bd0cb8004e1e7510bb9bbabb6236ba13192c8fc1",
                 "reference": "bd0cb8004e1e7510bb9bbabb6236ba13192c8fc1",
                 "shasum": ""
             },
@@ -6382,7 +6382,7 @@
                     "Orchestra\\Canvas\\Core\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -6413,7 +6413,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/orchestral/sidekick/zipball/267a71b56cb2fe1a634d69fc99889c671b77ff43",
+                "url": "https://api.github.com/repos/orchestral/sidekick/zipball/267a71b56cb2fe1a634d69fc99889c671b77ff43",
                 "reference": "267a71b56cb2fe1a634d69fc99889c671b77ff43",
                 "shasum": ""
             },
@@ -6445,7 +6445,7 @@
                     "Orchestra\\Sidekick\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -6472,7 +6472,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/orchestral/testbench/zipball/7c138e09a2be171583b32e7cc563e8aebd2cd42d",
+                "url": "https://api.github.com/repos/orchestral/testbench/zipball/7c138e09a2be171583b32e7cc563e8aebd2cd42d",
                 "reference": "7c138e09a2be171583b32e7cc563e8aebd2cd42d",
                 "shasum": ""
             },
@@ -6489,7 +6489,7 @@
                 "vlucas/phpdotenv": "^5.4.1"
             },
             "type": "library",
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -6526,7 +6526,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/orchestral/testbench-core/zipball/d173e2f261776a79af451f0e7b09fd531a654292",
+                "url": "https://api.github.com/repos/orchestral/testbench-core/zipball/d173e2f261776a79af451f0e7b09fd531a654292",
                 "reference": "d173e2f261776a79af451f0e7b09fd531a654292",
                 "shasum": ""
             },
@@ -6589,7 +6589,7 @@
                     "Orchestra\\Testbench\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -6626,7 +6626,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/orchestral/workbench/zipball/78054fcc0ef78e4ebfcfd5ed3ea6c6a81137298f",
+                "url": "https://api.github.com/repos/orchestral/workbench/zipball/78054fcc0ef78e4ebfcfd5ed3ea6c6a81137298f",
                 "reference": "78054fcc0ef78e4ebfcfd5ed3ea6c6a81137298f",
                 "shasum": ""
             },
@@ -6661,7 +6661,7 @@
                     "Orchestra\\Workbench\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -6694,7 +6694,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/phar-io/manifest/zipball/54750ef60c58e43759730615a392c31c80e23176",
+                "url": "https://api.github.com/repos/phar-io/manifest/zipball/54750ef60c58e43759730615a392c31c80e23176",
                 "reference": "54750ef60c58e43759730615a392c31c80e23176",
                 "shasum": ""
             },
@@ -6717,7 +6717,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -6761,7 +6761,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/phar-io/version/zipball/4f7fd7836c6f332bb2933569e566a0d6c4cbed74",
+                "url": "https://api.github.com/repos/phar-io/version/zipball/4f7fd7836c6f332bb2933569e566a0d6c4cbed74",
                 "reference": "4f7fd7836c6f332bb2933569e566a0d6c4cbed74",
                 "shasum": ""
             },
@@ -6774,7 +6774,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -6807,7 +6807,7 @@
             "version": "1.12.33",
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/phpstan/phpstan/zipball/37982d6fc7cbb746dda7773530cda557cdf119e1",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/37982d6fc7cbb746dda7773530cda557cdf119e1",
                 "reference": "37982d6fc7cbb746dda7773530cda557cdf119e1",
                 "shasum": ""
             },
@@ -6827,7 +6827,7 @@
                     "bootstrap.php"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -6865,7 +6865,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/php-code-coverage/zipball/85402a822d1ecf1db1096959413d35e1c37cf1a5",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/85402a822d1ecf1db1096959413d35e1c37cf1a5",
                 "reference": "85402a822d1ecf1db1096959413d35e1c37cf1a5",
                 "shasum": ""
             },
@@ -6902,7 +6902,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -6943,7 +6943,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/php-file-iterator/zipball/cf1c2e7c203ac650e352f4cc675a7021e7d1b3cf",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-file-iterator/zipball/cf1c2e7c203ac650e352f4cc675a7021e7d1b3cf",
                 "reference": "cf1c2e7c203ac650e352f4cc675a7021e7d1b3cf",
                 "shasum": ""
             },
@@ -6964,7 +6964,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -7003,7 +7003,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/php-invoker/zipball/5a10147d0aaf65b58940a0b72f71c9ac0423cc67",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-invoker/zipball/5a10147d0aaf65b58940a0b72f71c9ac0423cc67",
                 "reference": "5a10147d0aaf65b58940a0b72f71c9ac0423cc67",
                 "shasum": ""
             },
@@ -7028,7 +7028,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -7066,7 +7066,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/php-text-template/zipball/5da5f67fc95621df9ff4c4e5a84d6a8a2acf7c28",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-text-template/zipball/5da5f67fc95621df9ff4c4e5a84d6a8a2acf7c28",
                 "reference": "5da5f67fc95621df9ff4c4e5a84d6a8a2acf7c28",
                 "shasum": ""
             },
@@ -7087,7 +7087,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -7125,7 +7125,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/php-timer/zipball/5a63ce20ed1b5bf577850e2c4e87f4aa902afbd2",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-timer/zipball/5a63ce20ed1b5bf577850e2c4e87f4aa902afbd2",
                 "reference": "5a63ce20ed1b5bf577850e2c4e87f4aa902afbd2",
                 "shasum": ""
             },
@@ -7146,7 +7146,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -7184,7 +7184,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/phpunit/zipball/b36f02317466907a230d3aa1d34467041271ef4a",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/b36f02317466907a230d3aa1d34467041271ef4a",
                 "reference": "b36f02317466907a230d3aa1d34467041271ef4a",
                 "shasum": ""
             },
@@ -7238,7 +7238,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -7295,7 +7295,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/bobthecow/psysh/zipball/3be75d5b9244936dd4ac62ade2bfb004d13acf0f",
+                "url": "https://api.github.com/repos/bobthecow/psysh/zipball/3be75d5b9244936dd4ac62ade2bfb004d13acf0f",
                 "reference": "3be75d5b9244936dd4ac62ade2bfb004d13acf0f",
                 "shasum": ""
             },
@@ -7340,7 +7340,7 @@
                     "Psy\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -7374,7 +7374,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/reactphp/cache/zipball/d47c472b64aa5608225f47965a484b75c7817d5b",
+                "url": "https://api.github.com/repos/reactphp/cache/zipball/d47c472b64aa5608225f47965a484b75c7817d5b",
                 "reference": "d47c472b64aa5608225f47965a484b75c7817d5b",
                 "shasum": ""
             },
@@ -7391,7 +7391,7 @@
                     "React\\Cache\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -7446,7 +7446,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/reactphp/child-process/zipball/970f0e71945556422ee4570ccbabaedc3cf04ad3",
+                "url": "https://api.github.com/repos/reactphp/child-process/zipball/970f0e71945556422ee4570ccbabaedc3cf04ad3",
                 "reference": "970f0e71945556422ee4570ccbabaedc3cf04ad3",
                 "shasum": ""
             },
@@ -7467,7 +7467,7 @@
                     "React\\ChildProcess\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -7521,7 +7521,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/reactphp/dns/zipball/7562c05391f42701c1fccf189c8225fece1cd7c3",
+                "url": "https://api.github.com/repos/reactphp/dns/zipball/7562c05391f42701c1fccf189c8225fece1cd7c3",
                 "reference": "7562c05391f42701c1fccf189c8225fece1cd7c3",
                 "shasum": ""
             },
@@ -7542,7 +7542,7 @@
                     "React\\Dns\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -7597,7 +7597,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/reactphp/event-loop/zipball/ba276bda6083df7e0050fd9b33f66ad7a4ac747a",
+                "url": "https://api.github.com/repos/reactphp/event-loop/zipball/ba276bda6083df7e0050fd9b33f66ad7a4ac747a",
                 "reference": "ba276bda6083df7e0050fd9b33f66ad7a4ac747a",
                 "shasum": ""
             },
@@ -7616,7 +7616,7 @@
                     "React\\EventLoop\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -7669,7 +7669,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/reactphp/promise/zipball/23444f53a813a3296c1368bb104793ce8d88f04a",
+                "url": "https://api.github.com/repos/reactphp/promise/zipball/23444f53a813a3296c1368bb104793ce8d88f04a",
                 "reference": "23444f53a813a3296c1368bb104793ce8d88f04a",
                 "shasum": ""
             },
@@ -7689,7 +7689,7 @@
                     "React\\Promise\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -7742,7 +7742,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/reactphp/socket/zipball/ef5b17b81f6f60504c539313f94f2d826c5faa08",
+                "url": "https://api.github.com/repos/reactphp/socket/zipball/ef5b17b81f6f60504c539313f94f2d826c5faa08",
                 "reference": "ef5b17b81f6f60504c539313f94f2d826c5faa08",
                 "shasum": ""
             },
@@ -7766,7 +7766,7 @@
                     "React\\Socket\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -7822,7 +7822,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/reactphp/stream/zipball/1e5b0acb8fe55143b5b426817155190eb6f5b18d",
+                "url": "https://api.github.com/repos/reactphp/stream/zipball/1e5b0acb8fe55143b5b426817155190eb6f5b18d",
                 "reference": "1e5b0acb8fe55143b5b426817155190eb6f5b18d",
                 "shasum": ""
             },
@@ -7841,7 +7841,7 @@
                     "React\\Stream\\": "src/"
                 }
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -7900,7 +7900,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/cli-parser/zipball/2b56bea83a09de3ac06bb18b92f068e60cc6f50b",
+                "url": "https://api.github.com/repos/sebastianbergmann/cli-parser/zipball/2b56bea83a09de3ac06bb18b92f068e60cc6f50b",
                 "reference": "2b56bea83a09de3ac06bb18b92f068e60cc6f50b",
                 "shasum": ""
             },
@@ -7921,7 +7921,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -7956,7 +7956,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/code-unit/zipball/1fc9f64c0927627ef78ba436c9b17d967e68e120",
+                "url": "https://api.github.com/repos/sebastianbergmann/code-unit/zipball/1fc9f64c0927627ef78ba436c9b17d967e68e120",
                 "reference": "1fc9f64c0927627ef78ba436c9b17d967e68e120",
                 "shasum": ""
             },
@@ -7977,7 +7977,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8012,7 +8012,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/code-unit-reverse-lookup/zipball/ac91f01ccec49fb77bdc6fd1e548bc70f7faa3e5",
+                "url": "https://api.github.com/repos/sebastianbergmann/code-unit-reverse-lookup/zipball/ac91f01ccec49fb77bdc6fd1e548bc70f7faa3e5",
                 "reference": "ac91f01ccec49fb77bdc6fd1e548bc70f7faa3e5",
                 "shasum": ""
             },
@@ -8033,7 +8033,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8067,7 +8067,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/comparator/zipball/e4df00b9b3571187db2831ae9aada2c6efbd715d",
+                "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/e4df00b9b3571187db2831ae9aada2c6efbd715d",
                 "reference": "e4df00b9b3571187db2831ae9aada2c6efbd715d",
                 "shasum": ""
             },
@@ -8090,7 +8090,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8153,7 +8153,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/complexity/zipball/25f207c40d62b8b7aa32f5ab026c53561964053a",
+                "url": "https://api.github.com/repos/sebastianbergmann/complexity/zipball/25f207c40d62b8b7aa32f5ab026c53561964053a",
                 "reference": "25f207c40d62b8b7aa32f5ab026c53561964053a",
                 "shasum": ""
             },
@@ -8175,7 +8175,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8210,7 +8210,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/diff/zipball/ba01945089c3a293b01ba9badc29ad55b106b0bc",
+                "url": "https://api.github.com/repos/sebastianbergmann/diff/zipball/ba01945089c3a293b01ba9badc29ad55b106b0bc",
                 "reference": "ba01945089c3a293b01ba9badc29ad55b106b0bc",
                 "shasum": ""
             },
@@ -8232,7 +8232,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8276,7 +8276,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/environment/zipball/830c43a844f1f8d5b7a1f6d6076b784454d8b7ed",
+                "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/830c43a844f1f8d5b7a1f6d6076b784454d8b7ed",
                 "reference": "830c43a844f1f8d5b7a1f6d6076b784454d8b7ed",
                 "shasum": ""
             },
@@ -8300,7 +8300,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8339,7 +8339,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/exporter/zipball/14c6ba52f95a36c3d27c835d65efc7123c446e8c",
+                "url": "https://api.github.com/repos/sebastianbergmann/exporter/zipball/14c6ba52f95a36c3d27c835d65efc7123c446e8c",
                 "reference": "14c6ba52f95a36c3d27c835d65efc7123c446e8c",
                 "shasum": ""
             },
@@ -8362,7 +8362,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8428,7 +8428,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/global-state/zipball/b6781316bdcd28260904e7cc18ec983d0d2ef4f6",
+                "url": "https://api.github.com/repos/sebastianbergmann/global-state/zipball/b6781316bdcd28260904e7cc18ec983d0d2ef4f6",
                 "reference": "b6781316bdcd28260904e7cc18ec983d0d2ef4f6",
                 "shasum": ""
             },
@@ -8455,7 +8455,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8504,7 +8504,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/lines-of-code/zipball/e1e4a170560925c26d424b6a03aed157e7dcc5c5",
+                "url": "https://api.github.com/repos/sebastianbergmann/lines-of-code/zipball/e1e4a170560925c26d424b6a03aed157e7dcc5c5",
                 "reference": "e1e4a170560925c26d424b6a03aed157e7dcc5c5",
                 "shasum": ""
             },
@@ -8526,7 +8526,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8561,7 +8561,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/object-enumerator/zipball/5c9eeac41b290a3712d88851518825ad78f45c71",
+                "url": "https://api.github.com/repos/sebastianbergmann/object-enumerator/zipball/5c9eeac41b290a3712d88851518825ad78f45c71",
                 "reference": "5c9eeac41b290a3712d88851518825ad78f45c71",
                 "shasum": ""
             },
@@ -8584,7 +8584,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8618,7 +8618,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/object-reflector/zipball/b4f479ebdbf63ac605d183ece17d8d7fe49c15c7",
+                "url": "https://api.github.com/repos/sebastianbergmann/object-reflector/zipball/b4f479ebdbf63ac605d183ece17d8d7fe49c15c7",
                 "reference": "b4f479ebdbf63ac605d183ece17d8d7fe49c15c7",
                 "shasum": ""
             },
@@ -8639,7 +8639,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8673,7 +8673,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/recursion-context/zipball/539c6691e0623af6dc6f9c20384c120f963465a0",
+                "url": "https://api.github.com/repos/sebastianbergmann/recursion-context/zipball/539c6691e0623af6dc6f9c20384c120f963465a0",
                 "reference": "539c6691e0623af6dc6f9c20384c120f963465a0",
                 "shasum": ""
             },
@@ -8694,7 +8694,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8748,7 +8748,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/resource-operations/zipball/05d5692a7993ecccd56a03e40cd7e5b09b1d404e",
+                "url": "https://api.github.com/repos/sebastianbergmann/resource-operations/zipball/05d5692a7993ecccd56a03e40cd7e5b09b1d404e",
                 "reference": "05d5692a7993ecccd56a03e40cd7e5b09b1d404e",
                 "shasum": ""
             },
@@ -8769,7 +8769,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8802,7 +8802,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/type/zipball/75e2c2a32f5e0b3aef905b9ed0b179b953b3d7c7",
+                "url": "https://api.github.com/repos/sebastianbergmann/type/zipball/75e2c2a32f5e0b3aef905b9ed0b179b953b3d7c7",
                 "reference": "75e2c2a32f5e0b3aef905b9ed0b179b953b3d7c7",
                 "shasum": ""
             },
@@ -8823,7 +8823,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8858,7 +8858,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/sebastianbergmann/version/zipball/c6c1022351a901512170118436c764e473f6de8c",
+                "url": "https://api.github.com/repos/sebastianbergmann/version/zipball/c6c1022351a901512170118436c764e473f6de8c",
                 "reference": "c6c1022351a901512170118436c764e473f6de8c",
                 "shasum": ""
             },
@@ -8876,7 +8876,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -8911,7 +8911,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/filesystem/zipball/d1ec4543d5c6c2dac78503c2fae5ea0b3608ce40",
+                "url": "https://api.github.com/repos/symfony/filesystem/zipball/d1ec4543d5c6c2dac78503c2fae5ea0b3608ce40",
                 "reference": "d1ec4543d5c6c2dac78503c2fae5ea0b3608ce40",
                 "shasum": ""
             },
@@ -8932,7 +8932,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -8981,7 +8981,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/options-resolver/zipball/b48bce0a70b914f6953dafbd10474df232ed4de8",
+                "url": "https://api.github.com/repos/symfony/options-resolver/zipball/b48bce0a70b914f6953dafbd10474df232ed4de8",
                 "reference": "b48bce0a70b914f6953dafbd10474df232ed4de8",
                 "shasum": ""
             },
@@ -8998,7 +8998,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -9052,7 +9052,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/polyfill-php81/zipball/4a4cfc2d253c21a5ad0e53071df248ed48c6ce5c",
+                "url": "https://api.github.com/repos/symfony/polyfill-php81/zipball/4a4cfc2d253c21a5ad0e53071df248ed48c6ce5c",
                 "reference": "4a4cfc2d253c21a5ad0e53071df248ed48c6ce5c",
                 "shasum": ""
             },
@@ -9077,7 +9077,7 @@
                     "Resources/stubs"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -9132,7 +9132,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/polyfill-php84/zipball/88486db2c389b290bf87ff1de7ebc1e13e42bb06",
+                "url": "https://api.github.com/repos/symfony/polyfill-php84/zipball/88486db2c389b290bf87ff1de7ebc1e13e42bb06",
                 "reference": "88486db2c389b290bf87ff1de7ebc1e13e42bb06",
                 "shasum": ""
             },
@@ -9157,7 +9157,7 @@
                     "Resources/stubs"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -9212,7 +9212,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/stopwatch/zipball/85954ed72d5440ea4dc9a10b7e49e01df766ffa3",
+                "url": "https://api.github.com/repos/symfony/stopwatch/zipball/85954ed72d5440ea4dc9a10b7e49e01df766ffa3",
                 "reference": "85954ed72d5440ea4dc9a10b7e49e01df766ffa3",
                 "shasum": ""
             },
@@ -9229,7 +9229,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -9278,7 +9278,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/symfony/yaml/zipball/7bca30dabed7900a08c5ad4f1d6483f881a64d0f",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/7bca30dabed7900a08c5ad4f1d6483f881a64d0f",
                 "reference": "7bca30dabed7900a08c5ad4f1d6483f881a64d0f",
                 "shasum": ""
             },
@@ -9305,7 +9305,7 @@
                     "/Tests/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -9354,7 +9354,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://mirror-composer.runflare.com/repos/theseer/tokenizer/zipball/b7489ce515e168639d17feec34b8847c326b0b3c",
+                "url": "https://api.github.com/repos/theseer/tokenizer/zipball/b7489ce515e168639d17feec34b8847c326b0b3c",
                 "reference": "b7489ce515e168639d17feec34b8847c326b0b3c",
                 "shasum": ""
             },
@@ -9370,7 +9370,7 @@
                     "src/"
                 ]
             },
-            "notification-url": "https://mirror-composer.runflare.com/downloads/",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
