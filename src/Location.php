@@ -9,21 +9,21 @@ use Jeoip\Contracts\ICidr;
 
 class Location extends CommonLocation
 {
-    public static function create(string $query, ICidr $subnet, CityModel $city, ?AsnModel $asn): self
+    public static function create(string $query, ICidr $subnet, ?CityModel $city, ?AsnModel $asn): self
     {
         return new self(
             $query,
-            $city->country->isoCode ?? '??',
+            $city?->country->isoCode ?? '',
             $subnet,
-            $city->country->name ?? '',
-            $city->mostSpecificSubdivision->name ?? '',
-            $city->city->name ?? '',
+            $city?->country->name ?? '',
+            $city?->mostSpecificSubdivision->name ?? '',
+            $city?->city->name ?? '',
             $asn?->autonomousSystemNumber,
             $asn?->autonomousSystemOrganization,
-            (float) ($city->location->latitude ?? 0.0),
-            (float) ($city->location->longitude ?? 0.0),
-            $city->postal->code ?? '',
-            $city->location->timeZone ?? '',
+            (float) ($city?->location->latitude ?? 0.0),
+            (float) ($city?->location->longitude ?? 0.0),
+            $city?->postal->code ?? '',
+            $city?->location->timeZone ?? '',
         );
     }
 

@@ -6,7 +6,6 @@ use GeoIp2\Database\Reader;
 use GeoIp2\Exception\AddressNotFoundException;
 use Jeoip\Common\Cidr;
 use Jeoip\Common\Exceptions\QueryException;
-use Jeoip\Common\Exceptions\UnknownLocationException;
 use Jeoip\Common\Utilities;
 use Jeoip\Contracts\IGeoIPService;
 
@@ -28,10 +27,11 @@ class GeoIPService implements IGeoIPService
             throw new QueryException("It's not valid ip", $ip);
         }
 
+        $city = null;
         try {
             $city = $this->cityReader->city($ip);
         } catch (AddressNotFoundException $e) {
-            throw new UnknownLocationException($ip);
+            // City/country data unavailable (e.g. private or reserved IPs)
         } catch (\InvalidArgumentException $e) {
             throw new QueryException($e->getMessage(), $ip);
         }
@@ -48,9 +48,9 @@ class GeoIPService implements IGeoIPService
         return Location::create($ip, $subnet, $city, $asn);
     }
 
-    private function subnetFromCity(string $ip, \GeoIp2\Model\City $city): Cidr
+    private function subnetFromCity(string $ip, ?\GeoIp2\Model\City $city): Cidr
     {
-        $network = $city->traits->network ?? null;
+        $network = $city?->traits->network ?? null;
         if (null !== $network) {
             return Cidr::parse((string) $network);
         }

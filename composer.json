@@ -14,7 +14,7 @@
     "ext-gmp": "*",
     "geoip2/geoip2": "^3.0",
     "illuminate/support": "^9.0",
-    "jeoip/common": "^1.0.0"
+    "jeoip/common": "dev-master"
   },
   "require-dev": {
     "phpunit/phpunit": "^9.5",
@@ -38,5 +38,11 @@
       "@test:phpunit",
       "@test:codestyle"
     ]
+  },
+  "repositories": {
+    "common": {
+      "type": "vcs",
+      "url": "https://github.com/itsmattius/jeoip-common"
+    }
   }
 }
